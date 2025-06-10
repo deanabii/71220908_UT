@@ -2,7 +2,7 @@
 
 SOAL Unit Testing
 Lakukan pengujian otomatis level Unit Testing menggunakan salah satu tools berikut: JUnit,
-Mockito, atau Cucumber.
+Mockito, atau Cucumber. Disini saya memilih menggunakn JUnit.
 Diberikan sebuah aplikasi perpustakaan sederhana yang dibangun dengan Java menggunakan
 Maven. Aplikasi ini memiliki fitur untuk:
 a. Menambahkan buku
@@ -13,6 +13,8 @@ Aplikasi terdiri atas 3 komponen utama: (Silakan download di https://bit.ly/code
 a. Book.java: representasi data buku.
 b. BookService.java: logika aplikasi.
 c. App.java: antarmuka konsol.
+
+Struktur Folder:
 ![image](https://github.com/user-attachments/assets/aba11b76-4a5a-44e2-934a-0aacccf7b8e5)
 
 
